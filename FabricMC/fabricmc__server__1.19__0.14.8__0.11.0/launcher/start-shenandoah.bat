@@ -1,5 +1,7 @@
 @echo off
 
+chcp 65001
+
 rem will change the path where the batch file resides
 cd /d %~dp0../server
 
