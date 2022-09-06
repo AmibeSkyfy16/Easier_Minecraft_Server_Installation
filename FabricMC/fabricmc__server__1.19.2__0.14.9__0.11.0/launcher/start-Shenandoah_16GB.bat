@@ -11,7 +11,7 @@ cd /d %~dp0../server
 :: thanks https://stackoverflow.com/questions/7708681/how-to-read-from-a-properties-file-using-batch-script
 ::===============================================================
 
-for /F "eol=# delims== tokens=1,*" %%a in (../launcher/config-aikarsFlags.properties) do (
+for /F "eol=# delims== tokens=1,*" %%a in (../launcher/config-Shenandoah_16GB.properties) do (
     if NOT "%%a"=="" if NOT "%%b"=="" set args.%%a=%%b
 )
 
