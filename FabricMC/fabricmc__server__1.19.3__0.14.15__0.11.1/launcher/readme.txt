@@ -1,3 +1,8 @@
+I recommend to use the start-Shenandoah-8GB.bat file to start the server
+
+Also, if you use Shenandoah, you will need to do that -> https://www.chironchess.com/support/large-pages-in-windows-7vista/
+
+
 some usefully links
 
 https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/

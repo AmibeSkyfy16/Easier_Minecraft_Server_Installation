@@ -1,1 +1,1 @@
-call start.bat config-Default_8GB
+call "%~dp0..\launcher\start.bat" config-Default_8GB

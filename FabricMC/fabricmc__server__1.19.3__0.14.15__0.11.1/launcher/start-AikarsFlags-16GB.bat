@@ -1,1 +1,1 @@
-call start.bat config-AikarsFlags_16GB
+call "%~dp0..\launcher\start.bat" config-AikarsFlags_16GB
