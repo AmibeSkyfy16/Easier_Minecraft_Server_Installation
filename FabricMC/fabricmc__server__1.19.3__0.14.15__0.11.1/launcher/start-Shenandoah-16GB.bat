@@ -1,1 +1,1 @@
-call "%~dp0..\launcher\start.bat" config-Shenandoah_16GB
+call "%~dp0start.bat" Shenandoah_8GB

@@ -1,0 +1,1 @@
+call "%~dp0start.bat" config-AikarsFlags_4GB

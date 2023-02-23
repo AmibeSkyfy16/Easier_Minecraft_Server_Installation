@@ -1,1 +1,0 @@
-call "%~dp0..\launcher\start.bat" config-Default_2GB
