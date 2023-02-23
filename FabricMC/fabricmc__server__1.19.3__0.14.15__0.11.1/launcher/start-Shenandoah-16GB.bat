@@ -1,0 +1,1 @@
+call start.bat config-Shenandoah_16GB

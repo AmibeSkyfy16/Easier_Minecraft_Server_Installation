@@ -1,0 +1,1 @@
+call start.bat config-Default_8GB

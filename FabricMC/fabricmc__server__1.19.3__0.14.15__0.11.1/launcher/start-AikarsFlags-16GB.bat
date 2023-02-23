@@ -1,0 +1,1 @@
+call start.bat config-AikarsFlags_16GB
