@@ -65,7 +65,7 @@ IF %gcToUse%==Shenandoah (
 
 title %title%
 
-set commandline="../%javaBinFolder%/java.exe" -jar %basicFlags% %memoryFlags% %jvmDebuggerFlags% %gcFlags% %serverJar%
+set commandline="../%javaBinFolder%/java.exe" %basicFlags% %memoryFlags% %jvmDebuggerFlags% %gcFlags% -jar %serverJar%
 
 rem set commandline=%commandline% %gcFlags% %serverJar%
 
